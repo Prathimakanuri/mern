@@ -1,0 +1,23 @@
+
+$primary: #2563eb;
+
+.container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+
+    h1 {
+        color: $primary;
+    }
+}
+
+.card {
+    background: #f0f4ff;
+    margin: 10px auto;
+    padding: 10px;
+    width: 250px;
+    border-radius: 8px;
+
+    h3 {
+        color: $primary;
+    }
+}
